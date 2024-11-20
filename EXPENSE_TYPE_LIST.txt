@@ -1,0 +1,54 @@
+EXPENSE_TYPE_LIST
+{
+TypeExpense
+{
+type 1
+code 0
+description ODOIPORIKA
+value of refund per measure 1.5
+measure km
+maxrefund 100
+}
+TypeExpense
+{
+type 1
+code 1
+description DIATROFH
+value of refund per measure 30
+measure day
+maxrefund 100 
+}
+TypeExpense
+{
+type 1
+code 2
+description TSIGARA
+value of refund per measure 2
+measure package
+maxrefund 150
+}
+TypeExpense
+{
+type 2
+code 3
+description TAXI
+refund percentage 80
+maxrefund 120
+}
+TypeExpense
+{
+type 2
+code 4
+description DIAMONI
+refund percentage 40
+maxrefund 300
+}
+TypeExpense
+{
+type 2
+code 5
+description POTA
+refund percentage 25
+maxrefund 60 
+}
+

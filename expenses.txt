@@ -1,0 +1,177 @@
+Dapani 
+{ 
+code1 0
+type 1
+code 0
+quantity 80.0
+value 0.0
+maxRefund 100.0
+description ODOIPORIKA
+RefundPer 1.5
+} 
+Dapani 
+{ 
+code1 0
+type 1
+code 1
+quantity 100.0
+value 0.0
+maxRefund 100.0
+description ODOIPORIKA
+RefundPer 1.5
+} 
+Dapani 
+{ 
+code1 0
+type 1
+code 2
+quantity 4.0
+value 0.0
+maxRefund 80.0
+description TSIGARA
+RefundPer 2.0
+} 
+Dapani 
+{ 
+code1 0
+type 2
+code 3
+quantity 0.0
+value 30.0
+maxRefund 50.0
+description POTA
+RefundPer 60.0
+} 
+Dapani 
+{ 
+code1 1
+type 2
+code 4
+quantity 0.0
+value 50.0
+maxRefund 200.0
+description DIAMONI
+RefundPer 80.0
+} 
+Dapani 
+{ 
+code1 1
+type 2
+code 5
+quantity 0.0
+value 90.0
+maxRefund 200.0
+description DIAMONI
+RefundPer 80.0
+} 
+Dapani 
+{ 
+code1 1
+type 1
+code 6
+quantity 3.0
+value 0.0
+maxRefund 100.0
+description DIATROFH
+RefundPer 30.0
+} 
+Dapani 
+{ 
+code1 1
+type 2
+code 7
+quantity 0.0
+value 80.0
+maxRefund 150.0
+description TAXI
+RefundPer 70.0
+} 
+Dapani 
+{ 
+code1 2
+type 1
+code 8
+quantity 90.0
+value 0.0
+maxRefund 100.0
+description ODOIPORIKA
+RefundPer 1.5
+} 
+Dapani 
+{ 
+code1 2
+type 1
+code 9
+quantity 7.0
+value 0.0
+maxRefund 100.0
+description DIATROFH
+RefundPer 30.0
+} 
+Dapani 
+{ 
+code1 2
+type 2
+code 10
+quantity 0.0
+value 20.0
+maxRefund 50.0
+description POTA
+RefundPer 60.0
+} 
+Dapani 
+{ 
+code1 2
+type 2
+code 11
+quantity 0.0
+value 20.0
+maxRefund 50.0
+description POTA
+RefundPer 60.0
+} 
+Dapani 
+{ 
+code1 3
+type 2
+code 12
+quantity 0.0
+value 70.0
+maxRefund 200.0
+description DIAMONI
+RefundPer 80.0
+} 
+Dapani 
+{ 
+code1 3
+type 1
+code 13
+quantity 150.0
+value 0.0
+maxRefund 100.0
+description ODOIPORIKA
+RefundPer 1.5
+} 
+Dapani 
+{ 
+code1 3
+type 1
+code 14
+quantity 2.0
+value 0.0
+maxRefund 80.0
+description TSIGARA
+RefundPer 2.0
+} 
+Dapani 
+{ 
+code1 3
+type 1
+code 15
+quantity 80.0
+value 0.0
+maxRefund 100.0
+description ODOIPORIKA
+RefundPer 1.5
+} 
+

@@ -1,0 +1,28 @@
+Employee
+{
+    Surname PANAGIOTOPOULOS
+    Name ATHANASIOS
+    MaxRefund 300
+    Code 0 
+}   
+Employee
+{    
+    Surname PAPADOPOULOU
+    Name MARIA
+    MaxRefund 200
+    Code 1
+}
+Employee
+{    
+    Surname PAPAIOANNOU
+    Name ELISAVET
+    MaxRefund 350
+    Code 2
+}
+Employee
+{    
+    Surname GEORGIOU
+    Name KATERINA
+    MaxRefund 150
+    Code 3
+}

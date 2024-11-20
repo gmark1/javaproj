@@ -1,0 +1,31 @@
+TRN_LIST
+{
+Move
+{
+moves1 advance
+EMPLOYEE_CODE 0
+TYPE “PROKATAVOLI”
+VAL 150
+}
+Move
+{
+moves1 advance
+EMPLOYEE_CODE 1
+TYPE “PROKATAVOLI”
+VAL 200
+}
+Move
+{
+moves1 advance
+EMPLOYEE_CODE 2
+TYPE “PROKATAVOLI”
+VAL 250
+}
+Move
+{
+moves1 advance
+EMPLOYEE_CODE 3
+TYPE “PROKATAVOLI”
+VAL 300
+}
+
